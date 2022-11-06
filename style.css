@@ -1,0 +1,40 @@
+img {
+    height: 200px;
+    margin: 20px;
+
+}
+body{
+    width: 950px;
+    height: 600px;
+    margin: 0px auto;
+    padding: 15px;
+    justify-content:center;
+}
+
+.top-nav {
+    height: 200px;
+    background-color: rgb(190, 153, 172);
+    margin-bottom: 15px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content :space-around
+}
+.midle-nav {
+    height: 200px;
+    background-color: rgb(153, 201, 214);
+    margin-bottom: 15px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content :space-around
+}
+.botton-nav{
+    height: 200px;
+    background-color: rgb(154, 194, 160);
+    margin-bottom: 15px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content :space-around
+}
